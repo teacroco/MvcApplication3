@@ -1,5 +1,5 @@
 ﻿@Code
-    ViewData("Title") = "Home Page"
+    ViewData("Title") = "Hello!!!"
 End Code
 
 @section featured
